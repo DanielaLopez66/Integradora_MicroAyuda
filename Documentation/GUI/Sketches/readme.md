@@ -15,8 +15,8 @@ Estos bocetos ayudan al diseñador y desarrollador a conceptualizar la disposici
 ## Equipo de desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|-----------|----------|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases|✅|
-|Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅|
-| Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend|✅|
-|Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|✅|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases|No a revisado ❌|
+|Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|revisado ✅|
+|Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend|No a revisado ❌ |
+|Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|No a revisado ❌|
 
