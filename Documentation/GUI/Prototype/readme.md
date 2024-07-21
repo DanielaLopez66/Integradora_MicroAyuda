@@ -1,4 +1,4 @@
-# Prototype  [Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# Prototype  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 En esta carpeta estaremos mostrando nuestro prototipo final, resultado de nuestros bocetos. Este prototipo contiene todas las ventanas, botones, colores, fotos, paleta de colores y la información real del contenido, así como la funcionalidad que tendrá cada uno de las paginas principales de nuestra aplicación.
 
