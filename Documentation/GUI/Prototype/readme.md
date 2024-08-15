@@ -5,7 +5,7 @@ Es una representación detallada de la aplicación, integrando todos los element
 
 Además, este prototipo es una herramienta que nos ayudara a la validación y prueba del diseño antes de proceder al desarrollo completo. Nos va a facilitar la identificación de cualquier error que sea necesario corregir y nos asegura que el producto final cumpla con los objetivos establecidos y las expectativas de los usuarios y las partes interesadas.
 
-En la acrpeta de [wireframes](/Documentacion/GUI/WireFrames/readme.md) e detallado la funcionalidad de las ventanas principales ya diseñadas y hacia donde nos guiaran al darle seguimiento a ellas.
+En la acrpeta de [WireFrames](/Documentacion/GUI/WireFrames/readme.md) e detallado la funcionalidad de las ventanas principales ya diseñadas y hacia donde nos guiaran al darle seguimiento a ellas.
 
 [PROTOTIPO](/FrontEnd/Assets/prototipo.pdf)
 
