@@ -1,5 +1,4 @@
-# Prototype  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
+# Prototype  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 En esta carpeta estaremos mostrando nuestro prototipo final, resultado de nuestros bocetos. Este prototipo contiene todas las ventanas, botones, colores, fotos, paleta de colores y la información real del contenido, así como la funcionalidad que tendrá cada uno de las paginas principales de nuestra aplicación.
 
 Es una representación detallada de la aplicación, integrando todos los elementos visuales y funcionales creadas durante las fases de diseño. Al incluir información y datos reales, proporciona una visión exacta de cómo interactuarán los usuarios con la aplicación, permitiendo una evaluación transparente de la experiencia de usuario.
